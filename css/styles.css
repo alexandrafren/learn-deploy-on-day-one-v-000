@@ -449,6 +449,14 @@ a:visited {
     margin: 0 auto;
   }
 
+  #alexandra-fren-cover {
+    background-image: url('https://imgur.com/a/WjbG4bb');
+  }
+
+  #alexandra-fren-card {
+    background-image: url('https://imgur.com/9JBDqQK');
+  }
+
 }
 
 
@@ -465,10 +473,4 @@ a:visited {
     clear: both;
 }
 
-#alexandra-fren-cover {
-  background-image: url('https://imgur.com/a/WjbG4bb');
-}
 
-#alexandra-fren-card {
-  background-image: url('https://imgur.com/9JBDqQK');
-}
