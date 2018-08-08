@@ -466,9 +466,9 @@ a:visited {
 }
 
 #alexandra-fren-cover {
-  background-image: https://imgur.com/a/WjbG4bb;
+  background-image: url("https://imgur.com/a/WjbG4bb");
 }
 
 #alexandra-fren-card {
-  background-image: https://imgur.com/9JBDqQK;
+  background-image: url("https://imgur.com/9JBDqQK");
 }
